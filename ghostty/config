@@ -1,0 +1,5 @@
+theme = ayu
+background-opacity = 0.90
+background-blur = 20
+working-directory = home
+window-inherit-working-directory = false
